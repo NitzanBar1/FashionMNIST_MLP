@@ -1,2 +1,3 @@
 # FashionMNIST_MLP
-FashionMNIST Classifier with MLP
+FashionMNIST Classifier - MLP implementation.
+Implemented in PyTorch.
